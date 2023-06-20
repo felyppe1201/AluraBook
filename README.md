@@ -1,6 +1,6 @@
 # AluraBooks Olá, Bem vindo ao meu projeto de site de vendas de livros.
 
-![image](https://github.com/felyppe1201/portfolio/blob/main/img__portfolio.png)
+![image](https://github.com/felyppe1201/AluraBook/blob/main/assets/site.png)
 
 ## Ferramentas utilizadas:
 
