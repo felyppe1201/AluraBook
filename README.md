@@ -1,4 +1,5 @@
-# AluraBooks Olá, Bem vindo ao meu projeto de site de vendas de livros.
+# AluraBooks 
+# Olá, Bem vindo ao meu projeto de site de vendas de livros.
 
 ![image](https://github.com/felyppe1201/AluraBook/blob/main/assets/site.png)
 
